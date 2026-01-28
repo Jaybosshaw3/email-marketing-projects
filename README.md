@@ -9,10 +9,10 @@
 │   │   └── `notes.md`
 │
 ├── marketing-campaigns/
-|   └── playoff-promo/
-|        ├── index.html
-|        ├── preview.png
-|        └── notes.md
+│   └── playoff-promo/
+│        ├── index.html
+│        ├── preview.png
+│        └── notes.md
 │
 ├── newsletters/
 │   ├── weekly-digest/
