@@ -1,6 +1,6 @@
 # email-marketing-projects
 README.md
-transactional-emails/
+```transactional-emails/
   order-confirmation/
     index.html
     preview.png
