@@ -11,7 +11,8 @@
 ├── marketing-campaigns/
 │   ├── playoff-promo/
 │   │   ├── `index.html`
-│            └── 
+│            └── 📄 **HTML File:**  
+[View promo email source](marketing-campaigns/promo/index.html)
 │   │   ├── `preview.png`
 │   │   └── `notes.md`
 │
