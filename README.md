@@ -10,9 +10,9 @@
 │
 ├── marketing-campaigns/
 │   ├── playoff-promo/
-│   │   ├── index.html
-│   │   ├── preview.png
-│   │   └── notes.md
+│   │   ├── `index.html`
+│   │   ├── `preview.png`
+│   │   └── `notes.md`
 │
 ├── newsletters/
 │   ├── weekly-digest/
