@@ -10,8 +10,7 @@
 │
 ├── marketing-campaigns/
 │   ├── playoff-promo/
-│   │   ├── `index.html`
-│            └── 📄 **HTML File:**  
+│   │   ├── `index.html` 
 [View promo email source](marketing-campaigns/promo/index.html)
 │   │   ├── `preview.png`
 │   │   └── `notes.md`
