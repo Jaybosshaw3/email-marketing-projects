@@ -20,7 +20,7 @@
 [View promo email source](marketing-campaigns/disney-promo/index.html)
 │   │   ├── `preview2.png`
 [View preview](marketing-campaigns/disney-promo/preview2.png)
-│   │   ├── `notes.md`
+│   │   └── `notes.md`
 │
 ├── newsletters/
 │   ├── weekly-digest/
