@@ -11,15 +11,11 @@
 ├── marketing-campaigns/
 │   ├── playoff-promo/
 │   │   ├── `index.html` 
-[View promo email source](marketing-campaigns/playoff-promo/index.html)
 │   │   ├── `preview.png`
-[View preview](marketing-campaigns/playoff-promo/preview.png)
 │   │   └── `notes.md`
 │   └── disney-promo/
 │       ├── `index.html`
-[View promo email source](marketing-campaigns/disney-promo/index.html)
 │       ├── `preview2.png`
-[View preview](marketing-campaigns/disney-promo/preview2.png)
 │       └── `notes.md`
 │
 ├── newsletters/
