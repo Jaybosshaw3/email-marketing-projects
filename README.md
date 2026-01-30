@@ -13,6 +13,7 @@
 │   │   ├── `index.html` 
 [View promo email source](marketing-campaigns/playoff-promo/index.html)
 │   │   ├── `preview.png`
+[View preview](marketing-campaigns/playoff-promo/preview.png)
 │   │   └── `notes.md`
 │
 ├── newsletters/
